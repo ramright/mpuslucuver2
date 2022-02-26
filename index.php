@@ -26,7 +26,7 @@
         <!-- Page content-->
         <div class="container">
             <div class="text-center mt-5">
-                <h1>Tunggu sebentar, sedang mencari kucing lucu :3</h1>
+                <h1>Tunggu sebentar ya.. sedang mencari kucing lucu :3</h1>
                 <img src="https://i.redd.it/oh8fdmz81gay.gif" width="500">
             </div>
         </div>
