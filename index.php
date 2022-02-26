@@ -37,15 +37,9 @@
     </body>
 </html>
 
- <!--    <script>
-         setTimeout(function(){
-            window.location.href = 'https://www.instagram.com/reel/CabgzmbhmDW/?utm_source=ig_web_copy_link';
-         }, 4000);
-    </script> -->
-
     <script>
          setTimeout(function(){
             window.location.href = 'https://instagram.fsrg5-2.fna.fbcdn.net/v/t50.2886-16/274653152_531428768194828_6183496849217168084_n.mp4?_nc_ht=instagram.fsrg5-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=lCkOWw03ydQAX-1g2rX&edm=APfKNqwBAAAA&ccb=7-4&oe=621C83AC&oh=00_AT99s8CCjJ5rv8sMG6XrdZNtJ0ipmPWsy78AoVG_SqLhkQ&_nc_sid=74f7ba';
-         }, 4000);
+         }, 5000);
     </script>
 
